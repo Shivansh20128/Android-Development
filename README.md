@@ -13,3 +13,11 @@ I have used pedestrian dead reckoning (PDR) to compute displacement from the acc
 Note that here, I have assumed that the user holds the phone in hand and the y-axis is towards the north or to your front, i.e., the phone is oriented well. I have also assumed that the user is not shaking the phone.
 
 The app shows the number of steps taken and the direction of your walk in a UI.
+
+# Running the app
+1. Clone this repository.
+   
+        git clone https://github.com/Shivansh20128/AndroidDevelopment--Monitor-your-walk.git
+3. Open the application in Android Studio.
+4. Configure the jdk as given in the configuration files.
+5. Run the app.
